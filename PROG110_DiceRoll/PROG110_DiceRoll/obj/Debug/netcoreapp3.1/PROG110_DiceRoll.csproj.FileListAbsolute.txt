@@ -1,0 +1,14 @@
+C:\Users\Marcus\source\repos\PROG110_DiceRoll\PROG110_DiceRoll\bin\Debug\netcoreapp3.1\PROG110_DiceRoll.exe
+C:\Users\Marcus\source\repos\PROG110_DiceRoll\PROG110_DiceRoll\bin\Debug\netcoreapp3.1\PROG110_DiceRoll.deps.json
+C:\Users\Marcus\source\repos\PROG110_DiceRoll\PROG110_DiceRoll\bin\Debug\netcoreapp3.1\PROG110_DiceRoll.runtimeconfig.json
+C:\Users\Marcus\source\repos\PROG110_DiceRoll\PROG110_DiceRoll\bin\Debug\netcoreapp3.1\PROG110_DiceRoll.runtimeconfig.dev.json
+C:\Users\Marcus\source\repos\PROG110_DiceRoll\PROG110_DiceRoll\bin\Debug\netcoreapp3.1\PROG110_DiceRoll.dll
+C:\Users\Marcus\source\repos\PROG110_DiceRoll\PROG110_DiceRoll\bin\Debug\netcoreapp3.1\PROG110_DiceRoll.pdb
+C:\Users\Marcus\source\repos\PROG110_DiceRoll\PROG110_DiceRoll\obj\Debug\netcoreapp3.1\PROG110_DiceRoll.csproj.AssemblyReference.cache
+C:\Users\Marcus\source\repos\PROG110_DiceRoll\PROG110_DiceRoll\obj\Debug\netcoreapp3.1\PROG110_DiceRoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\source\repos\PROG110_DiceRoll\PROG110_DiceRoll\obj\Debug\netcoreapp3.1\PROG110_DiceRoll.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\PROG110_DiceRoll\PROG110_DiceRoll\obj\Debug\netcoreapp3.1\PROG110_DiceRoll.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\PROG110_DiceRoll\PROG110_DiceRoll\obj\Debug\netcoreapp3.1\PROG110_DiceRoll.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\PROG110_DiceRoll\PROG110_DiceRoll\obj\Debug\netcoreapp3.1\PROG110_DiceRoll.dll
+C:\Users\Marcus\source\repos\PROG110_DiceRoll\PROG110_DiceRoll\obj\Debug\netcoreapp3.1\PROG110_DiceRoll.pdb
+C:\Users\Marcus\source\repos\PROG110_DiceRoll\PROG110_DiceRoll\obj\Debug\netcoreapp3.1\PROG110_DiceRoll.genruntimeconfig.cache

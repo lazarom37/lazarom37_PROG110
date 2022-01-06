@@ -1,0 +1,14 @@
+C:\Users\DENNIS\OneDriveRedux\OneDrive\2017.09 PROG 110\Programs\Ch99ListOfBandMembersRideAlong\Ch99ListOfBandMembersRideAlong\bin\Debug\Ch99ListOfBandMembersRideAlong.exe.config
+C:\Users\DENNIS\OneDriveRedux\OneDrive\2017.09 PROG 110\Programs\Ch99ListOfBandMembersRideAlong\Ch99ListOfBandMembersRideAlong\bin\Debug\Ch99ListOfBandMembersRideAlong.exe
+C:\Users\DENNIS\OneDriveRedux\OneDrive\2017.09 PROG 110\Programs\Ch99ListOfBandMembersRideAlong\Ch99ListOfBandMembersRideAlong\bin\Debug\Ch99ListOfBandMembersRideAlong.pdb
+C:\Users\DENNIS\OneDriveRedux\OneDrive\2017.09 PROG 110\Programs\Ch99ListOfBandMembersRideAlong\Ch99ListOfBandMembersRideAlong\obj\Debug\Ch99ListOfBandMembersRideAlong.csprojResolveAssemblyReference.cache
+C:\Users\DENNIS\OneDriveRedux\OneDrive\2017.09 PROG 110\Programs\Ch99ListOfBandMembersRideAlong\Ch99ListOfBandMembersRideAlong\obj\Debug\Ch99ListOfBandMembersRideAlong.csproj.CoreCompileInputs.cache
+C:\Users\DENNIS\OneDriveRedux\OneDrive\2017.09 PROG 110\Programs\Ch99ListOfBandMembersRideAlong\Ch99ListOfBandMembersRideAlong\obj\Debug\Ch99ListOfBandMembersRideAlong.exe
+C:\Users\DENNIS\OneDriveRedux\OneDrive\2017.09 PROG 110\Programs\Ch99ListOfBandMembersRideAlong\Ch99ListOfBandMembersRideAlong\obj\Debug\Ch99ListOfBandMembersRideAlong.pdb
+C:\Users\denni\OneDrive\2018.09 PROG 110\Programs\Mod92ListOfBandMembersRideAlong - Copy\Ch99ListOfBandMembersRideAlong\bin\Debug\Ch99ListOfBandMembersRideAlong.exe.config
+C:\Users\denni\OneDrive\2018.09 PROG 110\Programs\Mod92ListOfBandMembersRideAlong - Copy\Ch99ListOfBandMembersRideAlong\bin\Debug\Ch99ListOfBandMembersRideAlong.exe
+C:\Users\denni\OneDrive\2018.09 PROG 110\Programs\Mod92ListOfBandMembersRideAlong - Copy\Ch99ListOfBandMembersRideAlong\bin\Debug\Ch99ListOfBandMembersRideAlong.pdb
+C:\Users\denni\OneDrive\2018.09 PROG 110\Programs\Mod92ListOfBandMembersRideAlong - Copy\Ch99ListOfBandMembersRideAlong\obj\Debug\Ch99ListOfBandMembersRideAlong.csprojResolveAssemblyReference.cache
+C:\Users\denni\OneDrive\2018.09 PROG 110\Programs\Mod92ListOfBandMembersRideAlong - Copy\Ch99ListOfBandMembersRideAlong\obj\Debug\Ch99ListOfBandMembersRideAlong.csproj.CoreCompileInputs.cache
+C:\Users\denni\OneDrive\2018.09 PROG 110\Programs\Mod92ListOfBandMembersRideAlong - Copy\Ch99ListOfBandMembersRideAlong\obj\Debug\Ch99ListOfBandMembersRideAlong.exe
+C:\Users\denni\OneDrive\2018.09 PROG 110\Programs\Mod92ListOfBandMembersRideAlong - Copy\Ch99ListOfBandMembersRideAlong\obj\Debug\Ch99ListOfBandMembersRideAlong.pdb

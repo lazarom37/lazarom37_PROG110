@@ -1,0 +1,14 @@
+C:\Users\Marcus\source\repos\PROG110_Assignment05\PROG110_Assignment05\obj\Debug\netcoreapp3.1\PROG110_Assignment05.csproj.AssemblyReference.cache
+C:\Users\Marcus\source\repos\PROG110_Assignment05\PROG110_Assignment05\obj\Debug\netcoreapp3.1\PROG110_Assignment05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\source\repos\PROG110_Assignment05\PROG110_Assignment05\obj\Debug\netcoreapp3.1\PROG110_Assignment05.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\PROG110_Assignment05\PROG110_Assignment05\obj\Debug\netcoreapp3.1\PROG110_Assignment05.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\PROG110_Assignment05\PROG110_Assignment05\obj\Debug\netcoreapp3.1\PROG110_Assignment05.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\PROG110_Assignment05\PROG110_Assignment05\bin\Debug\netcoreapp3.1\PROG110_Assignment05.exe
+C:\Users\Marcus\source\repos\PROG110_Assignment05\PROG110_Assignment05\bin\Debug\netcoreapp3.1\PROG110_Assignment05.deps.json
+C:\Users\Marcus\source\repos\PROG110_Assignment05\PROG110_Assignment05\bin\Debug\netcoreapp3.1\PROG110_Assignment05.runtimeconfig.json
+C:\Users\Marcus\source\repos\PROG110_Assignment05\PROG110_Assignment05\bin\Debug\netcoreapp3.1\PROG110_Assignment05.runtimeconfig.dev.json
+C:\Users\Marcus\source\repos\PROG110_Assignment05\PROG110_Assignment05\bin\Debug\netcoreapp3.1\PROG110_Assignment05.dll
+C:\Users\Marcus\source\repos\PROG110_Assignment05\PROG110_Assignment05\bin\Debug\netcoreapp3.1\PROG110_Assignment05.pdb
+C:\Users\Marcus\source\repos\PROG110_Assignment05\PROG110_Assignment05\obj\Debug\netcoreapp3.1\PROG110_Assignment05.dll
+C:\Users\Marcus\source\repos\PROG110_Assignment05\PROG110_Assignment05\obj\Debug\netcoreapp3.1\PROG110_Assignment05.pdb
+C:\Users\Marcus\source\repos\PROG110_Assignment05\PROG110_Assignment05\obj\Debug\netcoreapp3.1\PROG110_Assignment05.genruntimeconfig.cache

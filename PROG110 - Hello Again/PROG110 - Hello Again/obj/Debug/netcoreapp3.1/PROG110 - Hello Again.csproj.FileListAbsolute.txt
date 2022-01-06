@@ -1,0 +1,14 @@
+C:\Users\Marcus\source\repos\PROG110 - Hello Again\PROG110 - Hello Again\obj\Debug\netcoreapp3.1\PROG110 - Hello Again.csproj.AssemblyReference.cache
+C:\Users\Marcus\source\repos\PROG110 - Hello Again\PROG110 - Hello Again\obj\Debug\netcoreapp3.1\PROG110 - Hello Again.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\source\repos\PROG110 - Hello Again\PROG110 - Hello Again\obj\Debug\netcoreapp3.1\PROG110 - Hello Again.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\PROG110 - Hello Again\PROG110 - Hello Again\obj\Debug\netcoreapp3.1\PROG110 - Hello Again.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\PROG110 - Hello Again\PROG110 - Hello Again\obj\Debug\netcoreapp3.1\PROG110 - Hello Again.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\PROG110 - Hello Again\PROG110 - Hello Again\bin\Debug\netcoreapp3.1\PROG110 - Hello Again.exe
+C:\Users\Marcus\source\repos\PROG110 - Hello Again\PROG110 - Hello Again\bin\Debug\netcoreapp3.1\PROG110 - Hello Again.deps.json
+C:\Users\Marcus\source\repos\PROG110 - Hello Again\PROG110 - Hello Again\bin\Debug\netcoreapp3.1\PROG110 - Hello Again.runtimeconfig.json
+C:\Users\Marcus\source\repos\PROG110 - Hello Again\PROG110 - Hello Again\bin\Debug\netcoreapp3.1\PROG110 - Hello Again.runtimeconfig.dev.json
+C:\Users\Marcus\source\repos\PROG110 - Hello Again\PROG110 - Hello Again\bin\Debug\netcoreapp3.1\PROG110 - Hello Again.dll
+C:\Users\Marcus\source\repos\PROG110 - Hello Again\PROG110 - Hello Again\bin\Debug\netcoreapp3.1\PROG110 - Hello Again.pdb
+C:\Users\Marcus\source\repos\PROG110 - Hello Again\PROG110 - Hello Again\obj\Debug\netcoreapp3.1\PROG110 - Hello Again.dll
+C:\Users\Marcus\source\repos\PROG110 - Hello Again\PROG110 - Hello Again\obj\Debug\netcoreapp3.1\PROG110 - Hello Again.pdb
+C:\Users\Marcus\source\repos\PROG110 - Hello Again\PROG110 - Hello Again\obj\Debug\netcoreapp3.1\PROG110 - Hello Again.genruntimeconfig.cache

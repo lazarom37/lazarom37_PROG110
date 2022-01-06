@@ -1,0 +1,14 @@
+C:\Users\Marcus\source\repos\PROG110_Temp\PROG110_Temp\obj\Debug\netcoreapp3.1\PROG110_Temp.csproj.AssemblyReference.cache
+C:\Users\Marcus\source\repos\PROG110_Temp\PROG110_Temp\obj\Debug\netcoreapp3.1\PROG110_Temp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\source\repos\PROG110_Temp\PROG110_Temp\obj\Debug\netcoreapp3.1\PROG110_Temp.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\PROG110_Temp\PROG110_Temp\obj\Debug\netcoreapp3.1\PROG110_Temp.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\PROG110_Temp\PROG110_Temp\obj\Debug\netcoreapp3.1\PROG110_Temp.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\PROG110_Temp\PROG110_Temp\bin\Debug\netcoreapp3.1\PROG110_Temp.exe
+C:\Users\Marcus\source\repos\PROG110_Temp\PROG110_Temp\bin\Debug\netcoreapp3.1\PROG110_Temp.deps.json
+C:\Users\Marcus\source\repos\PROG110_Temp\PROG110_Temp\bin\Debug\netcoreapp3.1\PROG110_Temp.runtimeconfig.json
+C:\Users\Marcus\source\repos\PROG110_Temp\PROG110_Temp\bin\Debug\netcoreapp3.1\PROG110_Temp.runtimeconfig.dev.json
+C:\Users\Marcus\source\repos\PROG110_Temp\PROG110_Temp\bin\Debug\netcoreapp3.1\PROG110_Temp.dll
+C:\Users\Marcus\source\repos\PROG110_Temp\PROG110_Temp\bin\Debug\netcoreapp3.1\PROG110_Temp.pdb
+C:\Users\Marcus\source\repos\PROG110_Temp\PROG110_Temp\obj\Debug\netcoreapp3.1\PROG110_Temp.dll
+C:\Users\Marcus\source\repos\PROG110_Temp\PROG110_Temp\obj\Debug\netcoreapp3.1\PROG110_Temp.pdb
+C:\Users\Marcus\source\repos\PROG110_Temp\PROG110_Temp\obj\Debug\netcoreapp3.1\PROG110_Temp.genruntimeconfig.cache

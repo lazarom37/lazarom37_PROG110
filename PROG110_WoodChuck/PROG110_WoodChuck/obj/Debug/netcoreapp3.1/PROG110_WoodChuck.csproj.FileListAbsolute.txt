@@ -1,0 +1,14 @@
+C:\Users\Marcus\source\repos\PROG110_WoodChuck\PROG110_WoodChuck\bin\Debug\netcoreapp3.1\PROG110_WoodChuck.exe
+C:\Users\Marcus\source\repos\PROG110_WoodChuck\PROG110_WoodChuck\bin\Debug\netcoreapp3.1\PROG110_WoodChuck.deps.json
+C:\Users\Marcus\source\repos\PROG110_WoodChuck\PROG110_WoodChuck\bin\Debug\netcoreapp3.1\PROG110_WoodChuck.runtimeconfig.json
+C:\Users\Marcus\source\repos\PROG110_WoodChuck\PROG110_WoodChuck\bin\Debug\netcoreapp3.1\PROG110_WoodChuck.runtimeconfig.dev.json
+C:\Users\Marcus\source\repos\PROG110_WoodChuck\PROG110_WoodChuck\bin\Debug\netcoreapp3.1\PROG110_WoodChuck.dll
+C:\Users\Marcus\source\repos\PROG110_WoodChuck\PROG110_WoodChuck\bin\Debug\netcoreapp3.1\PROG110_WoodChuck.pdb
+C:\Users\Marcus\source\repos\PROG110_WoodChuck\PROG110_WoodChuck\obj\Debug\netcoreapp3.1\PROG110_WoodChuck.csproj.AssemblyReference.cache
+C:\Users\Marcus\source\repos\PROG110_WoodChuck\PROG110_WoodChuck\obj\Debug\netcoreapp3.1\PROG110_WoodChuck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\source\repos\PROG110_WoodChuck\PROG110_WoodChuck\obj\Debug\netcoreapp3.1\PROG110_WoodChuck.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\PROG110_WoodChuck\PROG110_WoodChuck\obj\Debug\netcoreapp3.1\PROG110_WoodChuck.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\PROG110_WoodChuck\PROG110_WoodChuck\obj\Debug\netcoreapp3.1\PROG110_WoodChuck.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\PROG110_WoodChuck\PROG110_WoodChuck\obj\Debug\netcoreapp3.1\PROG110_WoodChuck.dll
+C:\Users\Marcus\source\repos\PROG110_WoodChuck\PROG110_WoodChuck\obj\Debug\netcoreapp3.1\PROG110_WoodChuck.pdb
+C:\Users\Marcus\source\repos\PROG110_WoodChuck\PROG110_WoodChuck\obj\Debug\netcoreapp3.1\PROG110_WoodChuck.genruntimeconfig.cache

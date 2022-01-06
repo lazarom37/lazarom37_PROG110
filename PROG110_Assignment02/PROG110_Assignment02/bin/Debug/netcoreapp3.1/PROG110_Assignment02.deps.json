@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PROG110_Assignment02/1.0.0": {
+        "runtime": {
+          "PROG110_Assignment02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PROG110_Assignment02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
